@@ -1,4 +1,4 @@
-# Hi, Nice to meet You. 🖐
+# Hello, Nice to meet You. 🖐
 
 # 💫 About Me:
 🔬 I am a senior AI and full-stack engineeer.<br>🌱 I'm always learning and staying up-to-date with the latest advancements in the field.<br>👨‍💻 I'm proficient in PHP, Python JavaScript, and various data science libraries and tools.<br>🤝 I'm open to collaborations and discussions on projects related to .<br>📈 My goal is to make project that satisfy customers and help to success of them<br>
