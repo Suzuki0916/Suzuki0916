@@ -1,4 +1,4 @@
-# Hello, Nice to meet You. 🖐
+# Hi, Nice to meet You. 🖐
 
 # 💫 About Me:
 🔬 I am a senior AI and full-stack engineeer.<br>🌱 I'm always learning and staying up-to-date with the latest advancements in the field.<br>👨‍💻 I'm proficient in PHP, Python JavaScript, and various data science libraries and tools.<br>🤝 I'm open to collaborations and discussions on projects related to .<br>📈 My goal is to make project that satisfy customers and help to success of them<br>
@@ -7,9 +7,7 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-- 🌱Here are my technic certifies ****
-- 💬 My portfolio is ****
-- 📫 How to reach me ****
+- 📫 How to reach me hs8179189@gmail.com
 - 👨‍💻 All of my projects are available at **https://github.com/SuperStar0916?tab=repositories**
 - ⚡ Fun fact **I speak fluent emoji, but my computer never understands my jokes. 😅**
 
