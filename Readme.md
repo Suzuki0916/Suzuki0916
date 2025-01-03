@@ -9,7 +9,7 @@
 <p align="left" font-weight="bold">
 🔬 I am a Web application Specialist/JS Frameworks Expert.<br>🌱 I'm always learning and staying up-to-date with the latest advancements in the field.<br>👨‍💻 I'm proficient in JavaScript, JS Frameworks, Libraries, PHP, Python and various data science libraries and tools.<br>🤝 I'm open to collaborations and discussions on projects related to .<br>📈 My goal is to make project that satisfy customers and help to success of them<br>
 </p>
-<br><h2 align="center">
+<br
 
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
