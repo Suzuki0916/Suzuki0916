@@ -6,7 +6,7 @@
 💫 <h2 align="center" font-weight="bold">💫 About me</h2>  
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 
-<p align="center" font-weight="bold">
+<p align="left" font-weight="bold">
 🔬 I am a Web application Specialist/JS Frameworks Expert.<br>🌱 I'm always learning and staying up-to-date with the latest advancements in the field.<br>👨‍💻 I'm proficient in JavaScript, JS Frameworks, Libraries, PHP, Python and various data science libraries and tools.<br>🤝 I'm open to collaborations and discussions on projects related to .<br>📈 My goal is to make project that satisfy customers and help to success of them<br>
 </p>
 <br><h2 align="center">
