@@ -3,7 +3,7 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Application%20Specialist;Full%20Stack-developer;15%2B%20years%20Of%20Coding%20Experience;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-💫 <h2 align="center" font-weight="bold">💫 About me</h2>  
+<h2 align="center" font-weight="bold">💫 About me</h2>  
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 
 <p align="left" font-weight="bold">
@@ -18,6 +18,14 @@
 - 📫 How to reach me ruslanhylevych@gmail.com
 - 👨‍💻 All of my projects are available at **https://github.com/Ruslan827-tech?tab=repositories**
 - ⚡ Fun fact **I speak fluent emoji, but my computer never understands my jokes. 😅**
+
+<h1><p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p></h1>
+
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=SmartDev-531&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartDev&layout=compact&theme=aura&langs_count=9" />
+<img height="150" />
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center" style="display:flex;flex-direction:row;">
