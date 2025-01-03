@@ -8,7 +8,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
 - 📫 How to reach me ruslanhylevych@gmail.com
-- 👨‍💻 All of my projects are available at **https://github.com/SuperStar0916?tab=repositories**
+- 👨‍💻 All of my projects are available at **https://github.com/Ruslan827-tech?tab=repositories**
 - ⚡ Fun fact **I speak fluent emoji, but my computer never understands my jokes. 😅**
 
 <h3 align="left">Languages and Tools:</h3>
