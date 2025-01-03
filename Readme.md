@@ -22,8 +22,8 @@
 <h1><p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p></h1>
 
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=SmartDev-531&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartDev&layout=compact&theme=aura&langs_count=9" />
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Ruslan827-tech&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanHylevych&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
 <br>
 
