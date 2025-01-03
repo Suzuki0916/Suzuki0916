@@ -27,6 +27,10 @@
 <img height="150" />
 <br>
 
+<div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="center" style="display:flex;flex-direction:row;">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
