@@ -28,8 +28,14 @@
 <br>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ruslan827-tech&theme=juicyfresh&no-bg=true" />
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center" style="display:flex;flex-direction:row;">
