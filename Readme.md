@@ -1,10 +1,15 @@
 <h1 align="center">👋 Hi, Nice to meet You. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Application%20Specialist;Full%20Stack-developer;15%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Application%20Specialist;Full%20Stack-developer;15%2B%20years%20Of%20Coding%20Experience;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-# 💫 About Me:
-🔬 I am a senior AI and full-stack engineeer.<br>🌱 I'm always learning and staying up-to-date with the latest advancements in the field.<br>👨‍💻 I'm proficient in PHP, Python JavaScript, and various data science libraries and tools.<br>🤝 I'm open to collaborations and discussions on projects related to .<br>📈 My goal is to make project that satisfy customers and help to success of them<br>
+💫 <h2 align="center" font-weight="bold">💫 About me</h2>  
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+
+<p align="center" font-weight="bold">
+🔬 I am a Web application Specialist/JS Frameworks Expert.<br>🌱 I'm always learning and staying up-to-date with the latest advancements in the field.<br>👨‍💻 I'm proficient in JavaScript, JS Frameworks, Libraries, PHP, Python and various data science libraries and tools.<br>🤝 I'm open to collaborations and discussions on projects related to .<br>📈 My goal is to make project that satisfy customers and help to success of them<br>
+</p>
+<br><h2 align="center">
 
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
