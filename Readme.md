@@ -50,6 +50,7 @@
 </div>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruslan827-tech&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/Ruslan827-tech/github-readme-activity-graph)
+<br>
 
 <img align="left" height=200px src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" style="display:inline;position:absolute">
 Credit: [Ruslan827-tech](https://github.com/Ruslan827-tech)
