@@ -15,15 +15,15 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-- 📫 How to reach me ruslanhylevych@gmail.com
-- 👨‍💻 All of my projects are available at **https://github.com/Ruslan827-tech?tab=repositories**
+- 📫 How to reach me richhappy820@gmail.com
+- 👨‍💻 All of my projects are available at **https://github.com/Andrii589-Dev?tab=repositories**
 - ⚡ Fun fact **I speak fluent emoji, but my computer never understands my jokes. 😅**
 
 <h1><p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p></h1>
 
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Ruslan827-tech&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslan827-tech&layout=compact&theme=aura&langs_count=9" />
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Andrii589-Dev&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii589-Dev&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
 <br>
 
@@ -34,7 +34,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ruslan827-tech&theme=juicyfresh&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Andrii589-Dev&theme=juicyfresh&no-bg=true" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,8 +49,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 </div>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruslan827-tech&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/Ruslan827-tech/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrii589-Dev&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/Andrii589-Dev/github-readme-activity-graph)
 <br>
 
 <img align="left" height=200px src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" style="display:inline;position:absolute">
-Credit: [Ruslan827-tech](https://github.com/Ruslan827-tech)
+Credit: [Andrii589-Dev](https://github.com/Andrii589-Dev)
